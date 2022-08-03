@@ -93,7 +93,9 @@ one that introduces a new concept.
 
 A `final` variable is a variable with a value that cannot be changed once it's
 been initialized. It is often used in conjunction with the `static` modifier to
-handle "constants".
+handle **constants**. A **constant variable** is defined as a variable that
+cannot be modified after being initialized and can be called upon without an
+instance of the class.
 
 In our `Bicycle` example, we could make the `numWheels` variable `public`, but
 also make it `final` so that it cannot be modified by anyone, either outside of
