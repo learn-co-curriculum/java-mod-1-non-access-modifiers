@@ -52,7 +52,7 @@ public class Bicycle {
 } 
 ```
 
-We can now access this static variable via the class without having and instance of it:
+We can now access this static variable via the class without having an instance of it:
 
 ```java
 public static void main(String[] args) {
