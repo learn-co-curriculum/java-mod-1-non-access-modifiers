@@ -11,7 +11,7 @@ In the previous lesson, we learned about **access modifiers**. We've seen
 other types of keywords used other than the access modifier keywords though.
 For example:
 
-`public static void main(Stringp[] args`
+`public static void main(String[] args`
 
 In this lesson we will focus on the next keyword `static` and what that means.
 
